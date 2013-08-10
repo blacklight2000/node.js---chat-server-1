@@ -1,7 +1,7 @@
 node.js---chat-server-1
 =======================
 
-no user names, no private chatting, no multiroom - just a super simple node.js server. 
+no usernames added, no private chatting, no multiroom - just a super simple node.js server. 
 
 Source: http://www.youtube.com/watch?v=pNKNYLv2BpQ
 
